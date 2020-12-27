@@ -1,0 +1,13 @@
+C:\Users\drsha\Desktop\sharjeel works\C# From basic to Advance\my works\Quadratic Equation Solver\bin\Debug\netcoreapp3.1\Quadratic Equation Solver.exe
+C:\Users\drsha\Desktop\sharjeel works\C# From basic to Advance\my works\Quadratic Equation Solver\bin\Debug\netcoreapp3.1\Quadratic Equation Solver.deps.json
+C:\Users\drsha\Desktop\sharjeel works\C# From basic to Advance\my works\Quadratic Equation Solver\bin\Debug\netcoreapp3.1\Quadratic Equation Solver.runtimeconfig.json
+C:\Users\drsha\Desktop\sharjeel works\C# From basic to Advance\my works\Quadratic Equation Solver\bin\Debug\netcoreapp3.1\Quadratic Equation Solver.runtimeconfig.dev.json
+C:\Users\drsha\Desktop\sharjeel works\C# From basic to Advance\my works\Quadratic Equation Solver\bin\Debug\netcoreapp3.1\Quadratic Equation Solver.dll
+C:\Users\drsha\Desktop\sharjeel works\C# From basic to Advance\my works\Quadratic Equation Solver\bin\Debug\netcoreapp3.1\Quadratic Equation Solver.pdb
+C:\Users\drsha\Desktop\sharjeel works\C# From basic to Advance\my works\Quadratic Equation Solver\obj\Debug\netcoreapp3.1\Quadratic Equation Solver.csprojAssemblyReference.cache
+C:\Users\drsha\Desktop\sharjeel works\C# From basic to Advance\my works\Quadratic Equation Solver\obj\Debug\netcoreapp3.1\Quadratic Equation Solver.AssemblyInfoInputs.cache
+C:\Users\drsha\Desktop\sharjeel works\C# From basic to Advance\my works\Quadratic Equation Solver\obj\Debug\netcoreapp3.1\Quadratic Equation Solver.AssemblyInfo.cs
+C:\Users\drsha\Desktop\sharjeel works\C# From basic to Advance\my works\Quadratic Equation Solver\obj\Debug\netcoreapp3.1\Quadratic Equation Solver.csproj.CoreCompileInputs.cache
+C:\Users\drsha\Desktop\sharjeel works\C# From basic to Advance\my works\Quadratic Equation Solver\obj\Debug\netcoreapp3.1\Quadratic Equation Solver.dll
+C:\Users\drsha\Desktop\sharjeel works\C# From basic to Advance\my works\Quadratic Equation Solver\obj\Debug\netcoreapp3.1\Quadratic Equation Solver.pdb
+C:\Users\drsha\Desktop\sharjeel works\C# From basic to Advance\my works\Quadratic Equation Solver\obj\Debug\netcoreapp3.1\Quadratic Equation Solver.genruntimeconfig.cache
